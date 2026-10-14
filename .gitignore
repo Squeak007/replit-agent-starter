@@ -1,0 +1,9 @@
+.env
+*.pyc
+__pycache__/
+.replit_history
+state.json
+runs/
+.pytest_cache/
+.venv/
+venv/
