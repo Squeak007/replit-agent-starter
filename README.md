@@ -8,6 +8,17 @@ Battle-tested. Opinionated. Shippable.
 
 ---
 
+## 🛒 Get the kit — $19
+
+The full ZIP with all source, examples, and the Replit one-click template:
+
+- **Direct checkout (lowest fee):** [buy.stripe.com/00wbJ3eAl1KGa0fdJT18c00](https://buy.stripe.com/00wbJ3eAl1KGa0fdJT18c00)
+- **Gumroad (same price, their checkout):** [squeakco.gumroad.com/l/replit-agent-starter-kit](https://squeakco.gumroad.com/l/replit-agent-starter-kit)
+
+The source in this repo is MIT-licensed and free to read / fork. Paying gets you the packaged kit (one-click Replit import, 5 example agents configured, support, and future updates).
+
+---
+
 ## What's inside
 
 - **`agent.py`** — a clean agent loop with tool-calling
